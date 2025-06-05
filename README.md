@@ -80,3 +80,11 @@ echo "Average: $average"
 | `cat`   | Displays contents of a file  | `cat file.txt`                  |
 | `cal`   | Displays calendar            | `cal` or `cal 12 2025`          |
 | `date`  | Shows system date and time   | `date`                          |
+
+------
+
+
+## 📞 Contact Me
+💼 Himanshu Thakor
+📧 Email: himanshuthakor3584@gmail.com
+🔗 LinkedIn: linkedin.com/in/himanshu-thakor 
